@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fastify": "^4.27.0",
+    "fastify-jwt": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/fastify-jwt": "^0.8.1"
+  }
+}
